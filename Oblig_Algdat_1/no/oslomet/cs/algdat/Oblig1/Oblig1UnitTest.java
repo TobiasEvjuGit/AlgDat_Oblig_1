@@ -20,6 +20,8 @@ class Oblig1UnitTest {
 
     @org.junit.jupiter.api.Test
     void antallUlikeSortert() {
+        int[] a ={1, 1};
+
         assertEquals(true, false, "Implementer antallUlikeSortert og denne testen");
     }
 
